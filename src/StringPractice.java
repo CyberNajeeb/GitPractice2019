@@ -3,5 +3,6 @@ public class StringPractice {
 
         System.out.println("Before");
         System.out.println("After");
+        System.out.println("Ever after");
     }
 }
