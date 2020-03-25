@@ -1,5 +1,4 @@
 black
-<<<<<<< HEAD
 red
 yellow
 green
@@ -7,4 +6,4 @@ green
 pink
 orange
 purple
->>>>>>> 38a31e19015d6f077ad78347e3ba6d74a38ea6d6
+
