@@ -8,5 +8,7 @@ public class StringPractice2 {
         String string = Arrays.toString(arrays);
         System.out.println("string = " + string);
         System.out.println(string.equals(Arrays.toString(arrays)));
+
+//
     }
 }
