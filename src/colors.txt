@@ -1,4 +1,11 @@
 black
+red
+yellow
+green
+=======
 pink
 orange
 purple
+burgundy
+white
+light pink
