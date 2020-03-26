@@ -6,4 +6,6 @@ green
 pink
 orange
 purple
-
+burgandi
+white
+light pink
