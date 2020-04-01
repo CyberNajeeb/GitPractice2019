@@ -1,4 +1,6 @@
-public class StringPractice {
+
+
+public class GoogleTests {
     public static void main(String[] args) {
 
         System.out.println("Hello, world!");
